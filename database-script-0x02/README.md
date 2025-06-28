@@ -1,0 +1,1 @@
+insert data into the data base AIRBNB_DATA tables
