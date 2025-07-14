@@ -25,8 +25,8 @@ pricepernight,
 created_at,
 updated_at);
 
-EXPLAIN SELECT * FROM user;
+EXPLAIN ANALYZE SELECT * FROM user;
 
-EXPLAIN SELECT * FROM property;
+EXPLAIN ANALYZE SELECT * FROM property;
 
-EXPLAIN SELECT * FROM booking;
+EXPLAIN ANALYZE SELECT * FROM booking;
